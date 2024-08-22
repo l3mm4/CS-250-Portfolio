@@ -1,2 +1,15 @@
 # CS-250-Portfolio
-CS-250 Portfolio Final project for Southern New Hampshire University. 
+
+8-2 Journal: Portfolio Item
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+Understanding what users really need starts with talking to them directly. I use interviews, surveys, and feedback sessions to get a clear picture of their goals, problems, and how they interact with the system. This helps me see what is truly important from their perspective. Once I have gathered this information, I can translate it into user stories that will help with incremental development. Specifically, user stories are simple descriptions of features or tasks from the user’s point of view that break down the big picture into smaller, manageable pieces, making it easier to prioritize and tackle one thing at a time. Ultimately, this method helps me focus on delivering features that users actually care about and refine them based on their feedback; making sure that the final product really meets their needs.
+
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
+When developing programs, I believe in working iteratively and collaboratively. I use Agile methodologies like Scrum to keep things on track. This means breaking down the project into short sprints, so we can get regular feedback and make adjustments as needed. It is all about staying flexible and responsive to changes. With my potential career in software development, I am excited to integrate practices like continuous integration and automated testing into my workflow as I have learned countless benefits to such practices. Continuous integration helps by automatically testing and merging code changes, which makes it easier to catch and fix issues early on through the development process. Additionally, automated testing takes it a step further by running necessary tests automatically to ensure the code is solid and functions as intended. These practices will help me deliver better quality software and stay adaptable throughout the development process.
+
+What does it mean to be a good team member in software development?
+
+Being a good team member goes beyond just doing your part; it’s about effective communication, reliability, and collaboration. Keeping everyone in the loop with regular updates, sharing progress, and discussing any issues is crucial. Reliability means meeting deadlines and consistently producing quality work. Collaboration involves working together, sharing ideas, and helping each other out. A positive attitude and flexibility also make a big difference. Being open to feedback, willing to adjust to new plans, and supporting your teammates contributes to a productive and positive team environment. Through my experience, these types of traits help ensure that the team works smoothly together and achieves its common goals, leading to a successful project outcomes. Moreover, software development is not just about code; it’s about people working together to create something meaningful. 
